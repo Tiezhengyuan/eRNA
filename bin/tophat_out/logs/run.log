@@ -1,1 +1,0 @@
-/home/yuan/eRNA/tophat/tophat --transcriptome-index /home/yuan/eRNA/tophat/transcriptome_index/Homo_sapiens.GRCh38.dna -G /home/yuan/eRNA/bowtie2/Homo_sapiens.GRCh38.dna.gtf /home/yuan/eRNA/bowtie2/Homo_sapiens.GRCh38.dna

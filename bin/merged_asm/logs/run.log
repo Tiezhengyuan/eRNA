@@ -1,1 +1,0 @@
-/home/yuan/eRNA/cufflinks/cuffmerge -g -s /home/yuan/eRNA/bowtie2/Homo_sapiens.GRCh38.dna.fa -p 2 -o /home/yuan/eRNA/result/cuffmerge /home/yuan/eRNA/result/assemblies.txt
